@@ -31,9 +31,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="center"><b>Visitors Counts</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/vitoria-cosmos/count.svg"></p>
-<br> 
+  <img src="https://komarev.com/ghpvc/?username=vitoria-cosmos&label=Profile%20Views&color=ff91a4&style=flat" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
