@@ -32,7 +32,7 @@
 
 <div align="center">
 <br><p align="center"><b>Visitors Counts</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vitoria-cosmos}/count.svg"></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/vitoria-cosmos/count.svg"></p>
 <br> 
 </div>
 
