@@ -9,9 +9,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitoria-cosmos&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vitoria-cosmos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</p>
+</p> -->
 
 <div align="center">
   <a href="mailto://cmp.1a.maria.v.cosmo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
