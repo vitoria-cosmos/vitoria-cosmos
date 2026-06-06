@@ -1,33 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitoria+Cosmo;I'm+20+years+old;I'm+from+Brazil;I'm+an+undergraduate+student+in+Statistics;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitoria+Cosmo;I'm+20+years+old;I'm+from+Brazil;I'm+a+Junior+Development+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitoria-cosmos&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vitoria Cosmo stats" />
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitoria-cosmos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"/>
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoria-cosmos&theme=github_dark"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoria-cosmos&theme=github_dark&utcOffset=-3"/>
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitoria-cosmos&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitoria-cosmos&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoria-cosmos&theme=github_dark"/>
 
 <div align="center">
   <a href="mailto://cmp.1a.maria.v.cosmo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
